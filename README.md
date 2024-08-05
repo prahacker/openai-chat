@@ -11,7 +11,7 @@ This is an advanced chatbot that uses the powerful GPT-3 model to provide contex
 1. Clone the repository to your local machine:
 
 
-git clone https://github.com/your_username/advanced-chatbot.git
+git clone https://github.com/prahacker/advanced-chatbot.git
 cd advanced-chatbot
 Install the required libraries:
 pip install openai transformers
